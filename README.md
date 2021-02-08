@@ -1,2 +1,2 @@
 # squeeSat
-squeeSat: a pipeline to 
+squeeSat: a pipeline to search for satDNA
