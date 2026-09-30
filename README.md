@@ -1,9 +1,6 @@
-# squeeSat
-squeeSat: a pipeline to search for satDNA
+# squeeSat: Cross-Library Satellite Identification & Analysis
 
-# Protocol: Cross-Library Satellite Identification & Analysis
-
-Protocol for searching satellite DNA homology across species using RepeatMasker, sequence extraction, and TAREAN analysis.
+Protocol for searching satellite DNA homology across species using RepeatMasker, sequence extraction, and TAREAN/RepeatExplorer analysis.
 
 ---
 
@@ -125,8 +122,6 @@ seqkit sort --by-name robuFM10.dsilveFR1CL58.fasta > robuFM10.dsilveFR1CL58.sort
 ---
 
 ### 7. Run TAREAN on Galaxy Platform
-
-> ℹ️ *(Script by Emiliano? Verify automated submission options)*
 
 1. Log into the **RepeatExplorer Galaxy** platform:
    👉 [https://repeatexplorer-elixir.cerit-sc.cz/galaxy](https://repeatexplorer-elixir.cerit-sc.cz/galaxy)
